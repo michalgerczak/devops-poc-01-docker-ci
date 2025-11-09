@@ -1,0 +1,10 @@
+# Local files
+.DS_Store
+
+# Environment files
+.env
+
+# Terraform cache and state
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
