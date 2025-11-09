@@ -1,10 +1,10 @@
 # [DevOps Academy V1] Project 1: Docekr + CI/CD
 
-In this project I deploy a pre-uild "Hello World" web app using Docer and automate its build and deployment process with a CI/CD pipeline powered by GitHub Actions.
+In this project I deploy a pre-build "Hello World" web app using Docer and automate its build and deployment process with a CI/CD pipeline powered by GitHub Actions.
 
 ## Project Goal 
 
-Showcase core DevOps skills in containerization (Docker) and automation (CI/CD), aligning with the DevOps Academy  learning objectives.
+Showcase core DevOps skills in containerization (Docker) and automation (CI/CD), aligning with the DevOps Academy learning objectives.
 
 ## Quick Start (placeholder)
 
