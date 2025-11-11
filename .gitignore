@@ -1,5 +1,17 @@
-# Local files
+# --- OS-specific "junk" files ---
+
+# macOS
 .DS_Store
+
+# Linux
+*~
+*.swp
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# --- Project-specific files ---
 
 # Environment files
 .env
